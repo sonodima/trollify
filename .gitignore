@@ -1,0 +1,6 @@
+# IPA Files
+*.ipa
+*.tipa
+
+# macOS System Files
+*.DS_Store
